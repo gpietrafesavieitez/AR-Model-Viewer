@@ -1,4 +1,4 @@
-# Ar Model Viewer #
+# AR Model Viewer #
 
 :es: _"AR Model Viewer" se trata de una aplicación de realidad aumentada, desarrollada en Unity para Android, usando las librerías proporcionadas por Vuforia. La aplicación sirve principalmente para facilitar la visualización de objetos 3D haciendo uso de un cuboide físico personalizado como referencia. El usuario puede cargar un modelo 3D desde el almacenamiento interno del móvil o desde una tarjeta SD. También existe la posibilidad de importar un modelo directamente desde Thingverse. Una vez cargado, el usuario puede manipular el cubo y rotarlo a su elección mientras desde la pantalla del móvil verá el modelo en tiempo real. 
 "_
