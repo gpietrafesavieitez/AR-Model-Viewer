@@ -30,7 +30,7 @@
 * [UniZip](https://github.com/tsubaki/UnityZip) - Libreria para descomprimir / Decompress managment
 
 ## Autores / Authors ✒️
-* **Pablo Alonso**
-* **Gabriel Pietrafesa**
+* [**Pablo Alonso**](https://github.com/palonsovazquez)
+* [**Gabriel Pietrafesa**](https://github.com/gpietrafesavieitez)
 
 [CPR Daniel Castelao](https://www.danielcastelao.org)
