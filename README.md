@@ -14,7 +14,7 @@
 
 ## Instalación / Installation 🚀
 * Descarga el último lanzamiento e instálalo en tu móvil / Download last release and install it on your smartphone.
-[ARModel v0.0.1-alpha](https://github.com/gpietrafesavieitez/AR-Model-Viewer/releases/download/v0.0.1-alpha/ARModel.apk)
+<p align="center"><a href="https://github.com/gpietrafesavieitez/AR-Model-Viewer/releases/download/v0.0.1-alpha/ARModel.apk">ARModel v0.0.1-alpha</a></p>
 <p align="center">
   <img src="https://i.imgur.com/7KiQBOS.png">
 </p>
