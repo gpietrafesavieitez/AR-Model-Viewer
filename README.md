@@ -12,11 +12,13 @@
 * Descarga el último lanzamiento e instálalo en tu móvil / Download last release and install it on your smartphone
 
 * Imprime las imágenes necesarias y forma un cubo con ellas / Print the required target images and build a cube with them
+
 ![alt text](https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/scheme.jpg)
 
 * Importa un modelo 3D desde el almacenamiento de tu móvil o cárgalo directamente desde Thingverse / Import a 3D model from the storage of your smartphone or load it online directly from Thingverse
 
-* Disfruta! / Enjoy! 
+* Disfruta! / Enjoy!
+
 ![alt text](https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/screenshot.jpg)
 
 ## Desarrollado con / Developed with 🛠️
