@@ -1,5 +1,9 @@
 # AR Model Viewer #
 
+<p align="center">
+  <img height="200" width="250" src="https://i.imgur.com/HY0yp3g.png">
+</p>
+
 :es: - "AR Model Viewer" se trata de una aplicación de realidad aumentada, desarrollada en Unity para Android, usando las librerías proporcionadas por Vuforia. La aplicación sirve principalmente para facilitar la visualización de objetos 3D haciendo uso de un cuboide físico personalizado como referencia. El usuario puede cargar un modelo 3D desde el almacenamiento interno del móvil o desde una tarjeta SD. También existe la posibilidad de importar un modelo directamente desde Thingverse. Una vez cargado, el usuario puede manipular el cubo y rotarlo a su elección mientras desde la pantalla del móvil verá el modelo en tiempo real. 
 "
 
@@ -13,13 +17,17 @@
 
 * Imprime las imágenes necesarias y forma un cubo con ellas / Print the required target images and build a cube with them.
 
-![alt text](https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/scheme.jpg)
+<p align="center">
+  <img height="600" width="450" src="https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/scheme.jpg">
+</p>
 
 * Importa un modelo 3D desde el almacenamiento de tu móvil o cárgalo directamente desde [Thingverse](https://www.thingiverse.com) / Import a 3D model from the storage of your smartphone or load it online directly from [Thingverse](https://www.thingiverse.com).
 
 * Disfruta! / Enjoy!
 
-![alt text](https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/screenshot.jpg)
+<p align="center">
+  <img height="650" width="400" src="https://raw.githubusercontent.com/gpietrafesavieitez/AR-Model-Viewer/master/images/screenshot.jpg">
+</p>
 
 ## Desarrollado con / Developed with 🛠️
 * [Unity 3D Editor](https://unity.com) - Plataforma principal de desarrollo / Main development platform (Android SDK modules)
