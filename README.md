@@ -14,6 +14,7 @@
 
 ## Instalación / Installation 🚀
 * Descarga el último lanzamiento e instálalo en tu móvil / Download last release and install it on your smartphone.
+[ARModel v0.0.1-alpha](https://github.com/gpietrafesavieitez/AR-Model-Viewer/releases/download/v0.0.1-alpha/ARModel.apk)
 
 * Imprime las imágenes necesarias y forma un cubo con ellas / Print the required target images and build a cube with them.
 
