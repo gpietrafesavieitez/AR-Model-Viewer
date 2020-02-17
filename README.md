@@ -37,7 +37,7 @@
 * [Unity 3D Editor](https://unity.com) - Plataforma principal de desarrollo / Main development platform (Android SDK modules)
 * [Vuforia AR](https://developer.vuforia.com) - Kit de realidad aumentada / Augmented reality kit
 * [Simple File Browser](https://assetstore.unity.com/packages/tools/input-management/simple-file-browser-98451) - Gestor de ficheros / File manager
-* [pb_Stl]( https://github.com/karl-/pb_Stl) - Libreria para cargar el modelo 3d en formato STL en tiempo de ejecución / 3D Model Importer (supports STL format) in runtime
+* [pb_Stl]( https://github.com/karl-/pb_Stl) - Libreria para cargar el modelo 3D en formato STL en tiempo de ejecución / 3D Model Importer (supports STL format) in runtime
 * [OBJ Importer](https://assetstore.unity.com/packages/tools/modeling/runtime-obj-importer-49547) - Libreria para cargar el modelo 3D en formato OBJ en tiempo de ejecución / 3D Model Importer (supports OBJ format) in runtime
 * [UniZip](https://github.com/tsubaki/UnityZip) - Libreria para descomprimir / Decompress managment
 
